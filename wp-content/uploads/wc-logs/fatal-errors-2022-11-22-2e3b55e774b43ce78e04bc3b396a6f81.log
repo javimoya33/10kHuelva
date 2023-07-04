@@ -1,0 +1,544 @@
+2022-11-22T00:48:32+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:34+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:34+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:34+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:38+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:38+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:38+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:39+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:40+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:40+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:41+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:41+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:42+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:43+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:43+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:43+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:45+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:45+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:45+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:46+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:46+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:47+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:48:47+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:28+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:29+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:30+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:32+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:33+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:35+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:36+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:50:37+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:39+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:40+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:42+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:43+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:45+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:46+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:48+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:51:48+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:26+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:28+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:29+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:30+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:32+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:33+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:35+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:52:35+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:58:51+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:58:53+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:58:54+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:58:56+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:58:58+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:08+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:10+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:11+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:13+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:14+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:15+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:17+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T00:59:18+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:01:56+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:01:58+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:01:59+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:02:01+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:02:02+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:02:04+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:02:05+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
+2022-11-22T01:02:06+00:00 CRITICAL Uncaught RuntimeException: No ha sido posible la petición de acciones. Error en la base de datos. in /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#3 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(308): ActionScheduler_QueueRunner->run('Async Request')
+#4 /home/xngaafotjc/www/10khuelva/wp-includes/class-wp-hook.php(332 en /home/xngaafotjc/www/10khuelva/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php en la línea 683
+
